@@ -1,4 +1,4 @@
-# meta-myportfolio — Embedded Linux Portfolio, project 2/3
+# meta-i2c-sensor-demo — Embedded Linux Portfolio, project 2/3
 
 Custom Yocto layer for the `qemuarm64` machine, built on Poky (scarthgap, 5.0).
 Demonstrates extending a Yocto build with a custom recipe, rather than just
